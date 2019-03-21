@@ -1,0 +1,2 @@
+#Here's a python file we can use as a starter, but we should do this stuff in jupyter notebook
+print("Hey guys, this is Drew's code")
